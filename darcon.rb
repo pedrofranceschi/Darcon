@@ -1,3 +1,8 @@
+#
+# Darcon - RCON ruby client
+# by pH (Pedro Henrique Cavallieri Franceschi) - iBlogeek.com - 2006-2010 (C) - All Rights Reserved - @pedroh96 - pedrohfranceschi@gmail.com
+#
+
 require "rubygems"
 require "steam/servers/source_server"
 require "highline/import"
